@@ -33,6 +33,7 @@ class AppConfig {
     vr.setCache(false)
     vr.setPrefix("")
     vr.setSuffix(".html")
+    vr.setContentType("text/html;charset=UTF-8")
     vr
   }
 }
